@@ -54,3 +54,8 @@ main {
     padding: 10px;
     border-radius: 0 0 45px 45px;
 }
+
+.arrow {
+    width: 40px;
+    filter: invert(1);
+}

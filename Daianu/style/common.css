@@ -3,6 +3,16 @@
     padding: 0;
 }
 
+@font-face {
+    font-family: Quicksand;
+    src: url("../fonts/Quicksand-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: Koulen;
+    src: url("../fonts/Koulen-Regular.ttf");
+}
+
 body {
     font-family: 'Quicksand', sans-serif;
     color: white;

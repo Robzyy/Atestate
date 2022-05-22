@@ -33,7 +33,7 @@ main {
     width: 70%;
 }
 
-.down-arrow {
-    font-size: 30px;
-    margin: 40px 0;
+.arrow {
+    width: 40px;
+    filter: invert(1);
 }
