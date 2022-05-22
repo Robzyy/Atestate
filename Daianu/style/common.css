@@ -17,6 +17,7 @@ body {
     font-family: 'Quicksand', sans-serif;
     color: white;
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 h1 {
@@ -84,4 +85,12 @@ main {
 
 .img-wrapper img {
     border-radius: 45px;
+}
+
+hr {
+    margin: 100px 0 20px 0;
+}
+
+.footer p {
+    margin: 0;
 }
