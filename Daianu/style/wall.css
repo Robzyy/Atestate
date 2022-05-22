@@ -1,0 +1,66 @@
+@media screen and (min-height: 650px) {
+    main {
+        margin-top: 83vh;
+    }
+}
+
+@media screen and (max-height: 650px) {
+    main {
+        margin-top: 55vh;
+    }
+}
+
+nav {
+    background-color: #e7e7e7;
+}
+
+nav a {
+    color: #000;
+}
+
+.navbar>.logo {
+    margin: 5px 0;
+    filter: invert(0);
+    height: 70px;
+}
+
+body {
+    background-image: url("../img/wall.jpg");
+    background-size: 1920px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: white;
+    background-attachment: fixed;
+    color: black;
+}
+
+.content-wrapper {
+    width: 70%;
+}
+
+main {
+    padding-bottom: 0;
+}
+
+.down-arrow {
+    font-size: 30px;
+    margin: 40px 0;
+}
+
+.img-wrapper {
+    flex-direction: column;
+}
+
+.img-wrapper img {
+    border-radius: 45px 45px 0 0;
+}
+
+.img-wrapper p {
+    text-align: center;
+    background-color: #e7e7e7;
+    color: #000000;
+    width: 499px;
+    margin: 0;
+    padding: 10px;
+    border-radius: 0 0 45px 45px;
+}
